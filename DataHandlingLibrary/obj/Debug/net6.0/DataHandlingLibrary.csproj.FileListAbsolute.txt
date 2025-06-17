@@ -1,0 +1,24 @@
+E:\c# Project company\DataHandlingLibrary\bin\Debug\net6.0\DataHandlingLibrary.deps.json
+E:\c# Project company\DataHandlingLibrary\bin\Debug\net6.0\DataHandlingLibrary.dll
+E:\c# Project company\DataHandlingLibrary\bin\Debug\net6.0\DataHandlingLibrary.pdb
+E:\c# Project company\DataHandlingLibrary\obj\Debug\net6.0\DataHandlingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# Project company\DataHandlingLibrary\obj\Debug\net6.0\DataHandlingLibrary.AssemblyInfoInputs.cache
+E:\c# Project company\DataHandlingLibrary\obj\Debug\net6.0\DataHandlingLibrary.AssemblyInfo.cs
+E:\c# Project company\DataHandlingLibrary\obj\Debug\net6.0\DataHandlingLibrary.csproj.CoreCompileInputs.cache
+E:\c# Project company\DataHandlingLibrary\obj\Debug\net6.0\DataHandlingLibrary.dll
+E:\c# Project company\DataHandlingLibrary\obj\Debug\net6.0\refint\DataHandlingLibrary.dll
+E:\c# Project company\DataHandlingLibrary\obj\Debug\net6.0\DataHandlingLibrary.pdb
+E:\c# Project company\DataHandlingLibrary\obj\Debug\net6.0\ref\DataHandlingLibrary.dll
+E:\c# Project company\DataHandlingLibrary\obj\Debug\net6.0\DataHandlingLibrary.csproj.AssemblyReference.cache
+C:\E-trackPro\DataHandlingLibrary\bin\Debug\net6.0\DataHandlingLibrary.deps.json
+C:\E-trackPro\DataHandlingLibrary\bin\Debug\net6.0\DataHandlingLibrary.dll
+C:\E-trackPro\DataHandlingLibrary\bin\Debug\net6.0\DataHandlingLibrary.pdb
+C:\E-trackPro\DataHandlingLibrary\obj\Debug\net6.0\DataHandlingLibrary.csproj.AssemblyReference.cache
+C:\E-trackPro\DataHandlingLibrary\obj\Debug\net6.0\DataHandlingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\E-trackPro\DataHandlingLibrary\obj\Debug\net6.0\DataHandlingLibrary.AssemblyInfoInputs.cache
+C:\E-trackPro\DataHandlingLibrary\obj\Debug\net6.0\DataHandlingLibrary.AssemblyInfo.cs
+C:\E-trackPro\DataHandlingLibrary\obj\Debug\net6.0\DataHandlingLibrary.csproj.CoreCompileInputs.cache
+C:\E-trackPro\DataHandlingLibrary\obj\Debug\net6.0\DataHandlingLibrary.dll
+C:\E-trackPro\DataHandlingLibrary\obj\Debug\net6.0\refint\DataHandlingLibrary.dll
+C:\E-trackPro\DataHandlingLibrary\obj\Debug\net6.0\DataHandlingLibrary.pdb
+C:\E-trackPro\DataHandlingLibrary\obj\Debug\net6.0\ref\DataHandlingLibrary.dll

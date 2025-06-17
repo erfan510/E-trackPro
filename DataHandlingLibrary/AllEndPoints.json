@@ -1,0 +1,9 @@
+{
+
+  "UsersEndPoint": "https://dummyjson.com/users",
+  "PostsEndPoint": "https://dummyjson.com/posts",
+  "ComentsEndPoint": "https://dummyjson.com/comments",
+  "ProductsEndPoint": "https://dummyjson.com/products"
+
+
+}

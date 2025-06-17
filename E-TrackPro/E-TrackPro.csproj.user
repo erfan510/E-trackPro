@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddCommentPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CommentCell.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ListItemCell.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ListPostComentCell.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ListUserCell.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="PriceMonitoringPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProductsReviewPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SocialMediaDashboardPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TrackMainPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdatePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,76 @@
+E:\c# Project company\E-TrackPro\bin\Debug\net6.0-windows\E-TrackPro.exe
+E:\c# Project company\E-TrackPro\bin\Debug\net6.0-windows\E-TrackPro.deps.json
+E:\c# Project company\E-TrackPro\bin\Debug\net6.0-windows\E-TrackPro.runtimeconfig.json
+E:\c# Project company\E-TrackPro\bin\Debug\net6.0-windows\E-TrackPro.dll
+E:\c# Project company\E-TrackPro\bin\Debug\net6.0-windows\E-TrackPro.pdb
+E:\c# Project company\E-TrackPro\obj\Debug\net6.0-windows\E_TrackPro.ProductsReviewPage.resources
+E:\c# Project company\E-TrackPro\obj\Debug\net6.0-windows\E_TrackPro.TrackMainPage.resources
+E:\c# Project company\E-TrackPro\obj\Debug\net6.0-windows\E-TrackPro.csproj.GenerateResource.cache
+E:\c# Project company\E-TrackPro\obj\Debug\net6.0-windows\E-TrackPro.GeneratedMSBuildEditorConfig.editorconfig
+E:\c# Project company\E-TrackPro\obj\Debug\net6.0-windows\E-TrackPro.AssemblyInfoInputs.cache
+E:\c# Project company\E-TrackPro\obj\Debug\net6.0-windows\E-TrackPro.AssemblyInfo.cs
+E:\c# Project company\E-TrackPro\obj\Debug\net6.0-windows\E-TrackPro.csproj.CoreCompileInputs.cache
+E:\c# Project company\E-TrackPro\obj\Debug\net6.0-windows\E-TrackPro.dll
+E:\c# Project company\E-TrackPro\obj\Debug\net6.0-windows\refint\E-TrackPro.dll
+E:\c# Project company\E-TrackPro\obj\Debug\net6.0-windows\E-TrackPro.pdb
+E:\c# Project company\E-TrackPro\obj\Debug\net6.0-windows\E-TrackPro.genruntimeconfig.cache
+E:\c# Project company\E-TrackPro\obj\Debug\net6.0-windows\ref\E-TrackPro.dll
+E:\c# Project company\E-TrackPro\bin\Debug\net6.0-windows\DataHandlingLibrary.dll
+E:\c# Project company\E-TrackPro\bin\Debug\net6.0-windows\DataHandlingLibrary.pdb
+E:\c# Project company\E-TrackPro\obj\Debug\net6.0-windows\E-TrackPro.csproj.AssemblyReference.cache
+E:\c# Project company\E-TrackPro\obj\Debug\net6.0-windows\E_TrackPro.PriceMonitoringPage.resources
+E:\c# Project company\E-TrackPro\obj\Debug\net6.0-windows\E_TrackPro.Properties.Resources.resources
+E:\c# Project company\E-TrackPro\obj\Debug\net6.0-windows\E_TrackPro.SocialMediaDashboardPage.resources
+E:\c# Project company\E-TrackPro\obj\Debug\net6.0-windows\E-TrackPro.csproj.CopyComplete
+E:\c# Project company\E-TrackPro\obj\Debug\net6.0-windows\E_TrackPro.ListItemCell.resources
+E:\c# Project company\E-TrackPro\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\c# Project company\E-TrackPro\obj\Debug\net6.0-windows\E_TrackPro.CommentCell.resources
+E:\c# Project company\E-TrackPro\obj\Debug\net6.0-windows\E_TrackPro.ListPostComentCell.resources
+E:\c# Project company\E-TrackPro\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+E:\c# Project company\E-TrackPro\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\c# Project company\E-TrackPro\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+E:\c# Project company\E-TrackPro\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\c# Project company\E-TrackPro\obj\Debug\net6.0-windows\E_TrackPro.ListUserCell.resources
+E:\c# Project company\E-TrackPro\obj\Debug\net6.0-windows\E_TrackPro.AddCommentPage.resources
+E:\c# Project company\E-TrackPro\bin\Debug\net6.0-windows\LiveCharts.WinForms.dll
+E:\c# Project company\E-TrackPro\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+E:\c# Project company\E-TrackPro\bin\Debug\net6.0-windows\LiveCharts.dll
+E:\c# Project company\E-TrackPro\obj\Debug\net6.0-windows\E_TrackPro.UpdatePage.resources
+C:\E-trackPro\E-TrackPro\bin\Debug\net6.0-windows\E-TrackPro.exe
+C:\E-trackPro\E-TrackPro\bin\Debug\net6.0-windows\E-TrackPro.deps.json
+C:\E-trackPro\E-TrackPro\bin\Debug\net6.0-windows\E-TrackPro.runtimeconfig.json
+C:\E-trackPro\E-TrackPro\bin\Debug\net6.0-windows\E-TrackPro.dll
+C:\E-trackPro\E-TrackPro\bin\Debug\net6.0-windows\E-TrackPro.pdb
+C:\E-trackPro\E-TrackPro\bin\Debug\net6.0-windows\LiveCharts.WinForms.dll
+C:\E-trackPro\E-TrackPro\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+C:\E-trackPro\E-TrackPro\bin\Debug\net6.0-windows\LiveCharts.dll
+C:\E-trackPro\E-TrackPro\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\E-trackPro\E-TrackPro\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\E-trackPro\E-TrackPro\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\E-trackPro\E-TrackPro\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\E-trackPro\E-TrackPro\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\E-trackPro\E-TrackPro\bin\Debug\net6.0-windows\DataHandlingLibrary.dll
+C:\E-trackPro\E-TrackPro\bin\Debug\net6.0-windows\DataHandlingLibrary.pdb
+C:\E-trackPro\E-TrackPro\obj\Debug\net6.0-windows\E-TrackPro.csproj.AssemblyReference.cache
+C:\E-trackPro\E-TrackPro\obj\Debug\net6.0-windows\E_TrackPro.AddCommentPage.resources
+C:\E-trackPro\E-TrackPro\obj\Debug\net6.0-windows\E_TrackPro.CommentCell.resources
+C:\E-trackPro\E-TrackPro\obj\Debug\net6.0-windows\E_TrackPro.ListItemCell.resources
+C:\E-trackPro\E-TrackPro\obj\Debug\net6.0-windows\E_TrackPro.ListPostComentCell.resources
+C:\E-trackPro\E-TrackPro\obj\Debug\net6.0-windows\E_TrackPro.ListUserCell.resources
+C:\E-trackPro\E-TrackPro\obj\Debug\net6.0-windows\E_TrackPro.PriceMonitoringPage.resources
+C:\E-trackPro\E-TrackPro\obj\Debug\net6.0-windows\E_TrackPro.ProductsReviewPage.resources
+C:\E-trackPro\E-TrackPro\obj\Debug\net6.0-windows\E_TrackPro.Properties.Resources.resources
+C:\E-trackPro\E-TrackPro\obj\Debug\net6.0-windows\E_TrackPro.SocialMediaDashboardPage.resources
+C:\E-trackPro\E-TrackPro\obj\Debug\net6.0-windows\E_TrackPro.TrackMainPage.resources
+C:\E-trackPro\E-TrackPro\obj\Debug\net6.0-windows\E_TrackPro.UpdatePage.resources
+C:\E-trackPro\E-TrackPro\obj\Debug\net6.0-windows\E-TrackPro.csproj.GenerateResource.cache
+C:\E-trackPro\E-TrackPro\obj\Debug\net6.0-windows\E-TrackPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\E-trackPro\E-TrackPro\obj\Debug\net6.0-windows\E-TrackPro.AssemblyInfoInputs.cache
+C:\E-trackPro\E-TrackPro\obj\Debug\net6.0-windows\E-TrackPro.AssemblyInfo.cs
+C:\E-trackPro\E-TrackPro\obj\Debug\net6.0-windows\E-TrackPro.csproj.CoreCompileInputs.cache
+C:\E-trackPro\E-TrackPro\obj\Debug\net6.0-windows\E-TrackPro.csproj.Up2Date
+C:\E-trackPro\E-TrackPro\obj\Debug\net6.0-windows\E-TrackPro.dll
+C:\E-trackPro\E-TrackPro\obj\Debug\net6.0-windows\refint\E-TrackPro.dll
+C:\E-trackPro\E-TrackPro\obj\Debug\net6.0-windows\E-TrackPro.pdb
+C:\E-trackPro\E-TrackPro\obj\Debug\net6.0-windows\E-TrackPro.genruntimeconfig.cache
+C:\E-trackPro\E-TrackPro\obj\Debug\net6.0-windows\ref\E-TrackPro.dll
